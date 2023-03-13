@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **justyna.jackiewicz@live.com**
 
-- 📄 Know about my experiences [-](-)
-
 - ⚡ Fun fact **I think that I won't kill your plants:bamboo:**
 
 <h3 align="left">Connect with me:</h3>
