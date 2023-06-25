@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justyna</h1>
 <h3 align="center">Junior QA</h3>
 
-- 🌱 I’m currently learning test automatization**with Dare IT**
+- 🌱 I’m currently learning test automatization **with Dare IT**
 
 - 📫 How to reach me **justyna.jackiewicz@live.com**
 
